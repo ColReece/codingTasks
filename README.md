@@ -24,7 +24,7 @@ and
 Spacy and SpacyTextBlob - for implementing NLP
 ## Instructions
 
-Simply download the python file along will the provided dataset, be sure to make sure they are in the same folder, and then run the .py file.
+Simply download the python file along will the 1429_1.csv dataset prodived [here](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products) on Kaggle, be sure to make sure they are in the same folder, and then run the .py file.
 
 
 ## Acknowledgements
